@@ -1,0 +1,14 @@
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\bin\Debug\bmasExecutor2.exe.config
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\bin\Debug\bmasExecutor2.exe
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\bin\Debug\bmasExecutor2.pdb
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\bin\Debug\FastColoredTextBox.dll
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\bin\Debug\FluxAPI.dll
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.csproj.AssemblyReference.cache
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.Form1.resources
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.Properties.Resources.resources
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.csproj.GenerateResource.cache
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.csproj.CoreCompileInputs.cache
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.csproj.CopyComplete
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.exe
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.pdb
+C:\Users\anonymous\Desktop\bmasExecutor2\bmasExecutor2\obj\Debug\bmasExecutor2.Settings.resources
